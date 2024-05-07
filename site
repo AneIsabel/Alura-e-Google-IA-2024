@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nome da Papelaria</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Nome da Papelaria</h1>
+        <!-- Navegação -->
+        <nav>
+            <ul>
+                <li><a href="#quem-somos">Quem Somos</a></li>
+                <li><a href="#contato">Contato</a></li>
+                <li><a href="#loja">Conheça Nossa Loja</a></li>
+                <li><a href="#produtos">Produtos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="quem-somos">
+            <h2>Quem Somos</h2>
+            <p>Conteúdo sobre a papelaria...</p>
+        </section>
+
+        <section id="contato">
+            <h2>Contato</h2>
+            <!-- Formulário de contato ou informações de contato -->
+        </section>
+
+        <section id="loja">
+            <h2>Conheça Nossa Loja</h2>
+            <!-- Informações sobre a loja física -->
+        </section>
+
+        <section id="produtos">
+            <h2>Produtos</h2>
+            <!-- Lista de categorias e produtos -->
+            <div class="categoria">
+                <h3>Categoria 1</h3>
+                <!-- Produtos da categoria 1 -->
+            </div>
+            <!-- Mais categorias e produtos -->
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2023 Nome da Papelaria</p>
+    </footer>
+</body>
+</html>
